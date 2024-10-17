@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Qylahrzk
 - 👀 I’m interested in editing, making a video and developing a web
-- 🌱 I’m currently learning a computer science in matriculation
+- 🌱 I’m currently learning Mobile Computing in Universiti Teknologi Mara (UiTM)
 - 💞️ I’m looking to collaborate on wordpress
 - 📫 How to reach me nuraqilahnur@gmail.com
 <!---
